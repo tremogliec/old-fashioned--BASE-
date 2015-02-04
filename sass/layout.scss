@@ -1,0 +1,116 @@
+/*!////////////////////////////////////////////////
+// LAYOUT
+/////////////////////////////////////////////////*/
+@mixin gridRow($numPerRow,$margin){
+    width: ((100% - (($numPerRow - 1) * $margin)) / $numPerRow);
+    &:nth-child(n){
+        margin-bottom: $margin;
+        margin-right: $margin;
+    }
+    &:nth-of-type(#{$numPerRow}n){
+        margin-right: 0;
+    }
+    &:last-child{
+        margin-right: 0;
+    }
+}
+
+.row {
+    clear: both;
+}
+@media screen and (min-width: 400px) {
+    .wrap {
+        width: 98%;
+    }
+
+    .grid-1,
+    .grid-2,
+    .grid-3,
+    .grid-4,
+    .grid-5,
+    .grid-6,
+    .grid-half,
+    .grid-full,
+    .grid-25,
+    .grid-unit {
+        float: left;
+        @include gridRow(1, 1.515151515152%);
+    }
+
+    .gallery .grid-unit,
+    .grid-half {
+        @include gridRow(2, 1.515151515152%);
+    }
+
+    .grid-flow-opposite{
+        float: right;
+    }
+}
+@media screen and (min-width: 600px) {
+    .grid-1 { 
+        @include gridRow(6, 1.515151515152%);
+    }
+    .grid-2 {    
+        // width: 30.30303030303%;
+        @include gridRow(3, 1.515151515152%);
+    }
+    .grid-3,
+    .grid-half {
+        // width: 46.969696969697%;
+        @include gridRow(2, 1.515151515152%);
+    }
+    .grid-4 {
+        // width: 63.636363636364%;
+        @include gridRow(1.50000002, 1.515151515152%);
+    }
+    .grid-5 {
+        // width: 80.30303030303%;
+        @include gridRow(1.20481928, 1.515151515152%);
+    }
+    .grid-6,
+    .grid-full {
+        // width: 96.969696969697%;
+        @include gridRow(1, 1.515151515152%);
+    }
+
+    /* If there are no margins */
+    .grid-1.no-margin {
+        @include gridRow(6, 0);
+    }
+    .grid-2.no-margin {
+        @include gridRow(3, 0);
+    }
+    .grid-3.no-margin,
+    .grid-half.no-margin {
+        @include gridRow(2, 0);
+    }
+    .grid-4.no-margin {
+        @include gridRow(1.50000002, 0);
+    }
+    .grid-5.no-margin {
+        @include gridRow(1.20481928, 0);
+    }
+    .grid-6.no-margin,
+    .grid-full.no-margin {
+        @include gridRow(1, 0);
+    }
+
+    .grid-25 {
+        @include gridRow(4, 1.515151515152%);
+    }
+
+    .grid-25.no-margin {
+        @include gridRow(4, 0);
+    }
+
+    .gallery .grid-unit {
+        @include gridRow(3, 1.515151515152%);
+    }
+    .content-pad-right {
+        padding-right: 4%; /* Use (or don't) as necessary. */
+    }
+    .content-pad-left {
+        padding-left: 4%;
+    }
+}
+  

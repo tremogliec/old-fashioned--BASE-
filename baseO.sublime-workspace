@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/layout.scss",
+			"settings":
+			{
+				"buffer_size": 2321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/resets.scss",
+			"settings":
+			{
+				"buffer_size": 1051,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Dan/Desktop/Projects/base/sass/layout.sass",
+		"/Users/Dan/Desktop/Projects/base/sass/mixins.sass",
+		"/Users/Dan/Desktop/Projects/deck-craft/sass/layout.sass",
+		"/Users/Dan/Desktop/Projects/deck-craft/js/main.js",
+		"/Users/Dan/Desktop/Projects/deck-craft/sass/main.sass",
+		"/Users/Dan/Desktop/Projects/deck-craft/location-gallery.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/gallery.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/testimonials.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/process.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/porches-pergolas.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/gazebos.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/do-it-yourself.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/re-decking.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/decks-overview.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/deck-rail-styles.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/deck-accessories.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/contact.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/decks-styles.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/index.html",
+		"/Users/Dan/Desktop/Projects/deck-craft/css/flexslider.css",
+		"/Users/Dan/Desktop/Projects/deck-craft/deckCraft.sublime-workspace",
+		"/Users/Dan/Desktop/Projects/deck-craft/deckCraft.sublime-project",
+		"/Users/Dan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Dan/Desktop/Projects/deck-craft/sass/mixins.sass",
+		"/Users/Dan/Desktop/Projects/deck-craft/sass/helpers.sass",
+		"/Users/Dan/Desktop/Projects/deck-craft/sass/theme.sass",
+		"/Users/Dan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Dan/Desktop/Projects/deck-craft/sftp-config.json",
+		"/Users/Dan/Desktop/Projects/deck-craft/js/vendor/jquery.backstretch.min.js",
+		"/Users/Dan/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/Dan/Desktop/Projects/bedrock/sass/mixins.sass",
+		"/Users/Dan/Desktop/Projects/bedrock/js/main.js",
+		"/Users/Dan/Desktop/Projects/bedrock/sass/theme.sass",
+		"/Users/Dan/Desktop/Projects/bedrock/sass/main.sass",
+		"/Users/Dan/Desktop/Projects/bedrock/index.html",
+		"/Users/Dan/Desktop/Projects/bedrock/sass/layout.sass",
+		"/Users/Dan/Desktop/Projects/bedrock/css/main.css",
+		"/Users/Dan/Desktop/Projects/bedrock/sass/helpers.sass",
+		"/Users/Dan/Desktop/Projects/bedrock/sass/resets.sass",
+		"/Users/Dan/Desktop/Projects/test/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sidebar",
+			"aside",
+			";",
+			"}",
+			"{",
+			"1",
+			"rail-style-thumb",
+			"h3",
+			"gazebo",
+			";",
+			"section",
+			";",
+			"<div class=\"grid-25 gallery-small\">\n\n                    </div>",
+			"grid-25",
+			"section",
+			"'",
+			"8em",
+			"cf",
+			"background-color: transparentize(#fff,0.1)",
+			"$color2",
+			"($color1",
+			"padding: 10px 20px 10px 50px",
+			"<br>",
+			"$color1",
+			"$color3",
+			"$color2",
+			"$primaryColor",
+			"$color5",
+			"padding: 10px 50px 10px 20px",
+			"transition",
+			"0.2",
+			"2",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1170
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/layout.scss",
+					"settings":
+					{
+						"buffer_size": 2321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/resets.scss",
+					"settings":
+					{
+						"buffer_size": 1051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"dec",
+				"deckCraft.sublime-workspace"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Dan/Desktop/Projects/deck-craft/deckCraft.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
