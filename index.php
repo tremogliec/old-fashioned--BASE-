@@ -11,6 +11,7 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
+        <meta name="format-detection" content="telephone=no">
 
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
